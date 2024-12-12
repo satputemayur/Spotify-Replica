@@ -47,7 +47,7 @@ body{
 }
 
 .music-player{
-    background-color: black;
+    background-color: blue;
     height: 72px;
     width: 100%;
     position:fixed;
