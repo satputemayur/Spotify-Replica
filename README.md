@@ -7,4 +7,4 @@ Features:
 Simple and elegant design inspired by Spotify.
 Organized HTML structure for content.
 CSS styling for a modern and clean look.
-😊
+||😊||
