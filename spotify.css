@@ -48,7 +48,7 @@ body{
 
 .music-player{
     background-color: blue;
-    height: 72px;
+    height: 74px;
     width: 100%;
     position:fixed;
     bottom: 0px;
@@ -100,7 +100,7 @@ a{
 }
 .library-options{
     display: flex;
-    width: 340px;
+    width: 330px;
     justify-content: space-between;
     align-items: center;
     padding: 0.5rem 0.80rem;
@@ -414,7 +414,7 @@ and  (max-device-width : 555px)
 }
 
 @media only screen
-and (max-device-width : 328px)
+and (max-device-width : 326px)
 { 
 .card{
     width: 200px;
@@ -428,7 +428,7 @@ and (max-device-width : 328px)
 
 
 @media only screen
-and (max-device-width : 340px)
+and (max-device-width : 330px)
 { 
     .player{
         width: 10vw;
